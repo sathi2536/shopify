@@ -19,7 +19,7 @@ function Card({details,setCartValue,cartValue}) {
                                     
                                     {details.cost}<br></br>
                                     
-                                    <ReactStars className={"Ratingstar"}  count={5} size={55} color2={'#ffd700'} />
+                                    <ReactStars className={"Ratingstar"}  count={5} size={35} color2={'#ffd700'} />
                                     
                                         
                                                                        
